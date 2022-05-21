@@ -13,7 +13,7 @@ services:
       - java
       - -jar
       - /kissmanga-downloader.jar
-      - http://kissmanga.com/Manga/Shingeki-no-Kyojin
+      - https://1stkissmanga.tv/manga/the-young-lady-is-a-royal-chef/chapter-1
   selenium:
     image: "elgalu/selenium:latest"
     ports:
